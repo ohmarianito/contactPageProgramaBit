@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PaginaContacto</string>
+    <string name="nombre">Mariano ProgramaBit</string>
+    <string name="telefono">099999999</string>
+    <string name="email">pepe@pepe.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="pfecha">fecha</string>
+    <string name="fecha_nacimiento">Seleccione fecha</string>
+    <string name="descripcion">Descripción contacto</string>
+</resources>
